@@ -6,13 +6,13 @@
 * real time : SignalR
 
 ## Screenshot 1
-<img src="scren154asfasf85.jpg" height="50%" width="50%">
+<img src="scren154asfasf85.jpg" height="70%" width="70%">
 
 ## Screenshot 2
-<img src="Screenshoasdas5512.jpg" height="50%" width="50%">
+<img src="Screenshoasdas5512.jpg" height="70%" width="70%">
 
 ## Screen record
-<img height="50%" width="50%" src="screenRecordas54e54.gif">
+<img height="70%" width="70%" src="screenRecordas54e54.gif">
 
 ## How to run client app
 * After clone this repo open lib> pages> chatPage.dart and change this ip `192.168.1.102` to your local network ip
