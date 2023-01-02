@@ -1,5 +1,7 @@
 # real time simple chat application with Flutter and SignalR
 
+## :heart: Star the repo to support the project , Thanks :smile:
+ 
 ## Description
 * client : Flutter
 * sever : ASP .NET Core 5.0
